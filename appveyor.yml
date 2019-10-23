@@ -25,6 +25,6 @@ deploy:
     tag: 1.1.4#$(REV)
     force_update: true
     auth_token:
-        secure: a921868c348ee37a0b1038b295d2639d4ecc9412
+        secure: aaa
     on:
       branch: master
