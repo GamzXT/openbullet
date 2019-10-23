@@ -25,6 +25,6 @@ deploy:
     tag: 1.1.4#$(REV)
     force_update: true
     auth_token:
-        secure: ggc65D/J7litzhVL38h+ek4STOytVbOmx2UP3xYFEZVg0Py8ajPGHlklknuFI6Bj
+        secure: a921868c348ee37a0b1038b295d2639d4ecc9412
     on:
       branch: master
